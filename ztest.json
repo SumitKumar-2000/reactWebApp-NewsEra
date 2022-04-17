@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "WCVB Boston"
+            },
+            "author": null,
+            "title": "Shooting at Arkansas car show kills at least 1, wounds 24 - WCVB Boston",
+            "description": "Arkansas State Police said in a news release Sunday that one person was in custody and authorities were searching for others who may have fired into the crowd Saturday evening.",
+            "url": "https://www.wcvb.com/article/shooting-arkansas-car-show/39484280",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/screen-shot-2022-03-20-at-1-31-21-pm-1647797703.jpg?crop=0.989xw:1.00xh;0.00641xw,0&resize=1200:*",
+            "publishedAt": "2022-03-20T17:40:00Z",
+            "content": "DUMAS, Ark. —At least one person was killed and 24 others wounded, including children, in a shooting outside a car show in southeast Arkansas, police said.\r\nArkansas State Police said in a news relea… [+1411 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Fortnite Chapter 3 Season 2: Resistance - Official Story Trailer - IGN",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNZy87cVuCps",
+            "urlToImage": null,
+            "publishedAt": "2022-03-20T17:14:13Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Jake Trotter",
+            "title": "Cleveland Browns say team did 'extensive' inquiry into Deshaun Watson before completing trade - ESPN",
+            "description": "The Browns said Sunday they did \"extensive\" research into the allegations of sexual assault and sexual misconduct against Deshaun Watson before completing their trade for the quarterback.",
+            "url": "https://www.espn.com/nfl/story/_/id/33556358/cleveland-browns-say-team-did-extensive-inquiry-deshaun-watson-completing-trade",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1025%2Fr928310_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-03-20T17:08:08Z",
+            "content": "BEREA, Ohio -- The Cleveland Browns called their research and investigation into Deshaun Watson, including the allegations of sexual assault and sexual misconduct against him, \"extensive\" in a statem… [+4835 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "SCOTUS Nominee Ketanji Brown Jackson To Appear Before Senate Judiciary Committee Starting Monday - CBS Los Angeles",
+            "description": "Jason Whitehead, an associate professor with California State University, Long Beach appeared Sunday to discuss the appearance of Ketanji Brown Jackson, who ...",
+            "url": "https://www.youtube.com/watch?v=UfNZ0YFqnOI",
+            "urlToImage": "https://i.ytimg.com/vi/UfNZ0YFqnOI/hqdefault.jpg",
+            "publishedAt": "2022-03-20T17:03:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/helen-regan\">Helen Regan</a>, <a href=\"/profiles/steve-george\">Steve George</a>, Ben Church, <a href=\"/profiles/luke-mcgee\">Luke McGee</a>, Ed Upright, Maureen Chowdhury, <a href=\"/profiles/joe-ruiz\">Joe Ruiz</a> and Mike Hayes, CNN",
+            "title": "Russia invades Ukraine: Live updates - CNN",
+            "description": "US officials confirmed to CNN that Russia launched hypersonic missiles against Ukraine last week, the first known use of such missiles in combat. Follow here for live news updates.",
+            "url": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-20-22/index.html",
+            "urlToImage": "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/7a9d861e-0928-46c1-994c-7679015d6eb6.jpg",
+            "publishedAt": "2022-03-20T17:01:00Z",
+            "content": "Ukrainian officials say that another Russian commander has died during fighting, which they say would be the fifth Russian general to have been killed since the invasion on February 24.\r\nGen. Oleg Mi… [+1526 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Joseph Choi",
+            "title": "McConnell on Republicans supporting Putin: 'There's some lonely voices out there' | TheHill - The Hill",
+            "description": "Senate Minority Leader Mitch McConnell (R-Ky.) on Sunday called Republicans who support Russian P...",
+            "url": "https://thehill.com/homenews/senate/598949-mcconnell-on-republicans-supporting-putin-theres-some-lonely-voices-out-there",
+            "urlToImage": "https://thehill.com/sites/default/files/mcconnellmitch_031522arl3_lead.jpg",
+            "publishedAt": "2022-03-20T16:59:54Z",
+            "content": "Senate Minority Leader Mitch McConnellAddison (Mitch) Mitchell McConnellGOP rises to meet Ukraine challenge to define itselfSunday shows preview: Biden calls Putin a war criminal as Ukraine conflict … [+2179 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lisa Respers France and Chloe Melas, CNN",
+            "title": "Trevor Noah had nothing to do with Kanye West's Grammys performance being canceled, says source - CNN",
+            "description": "Kanye West has been pulled from performing at this year's Grammys due to \"concerning online behavior,\" three sources close to the artist confirmed to CNN.",
+            "url": "https://www.cnn.com/2022/03/20/entertainment/kanye-west-banned-grammys-trevor-noah/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220317134915-kanye-trevor-super-tease.jpg",
+            "publishedAt": "2022-03-20T16:58:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Martin Pengelly",
+            "title": "Liz Cheney does not regret vote against Trump Ukraine impeachment - The Guardian",
+            "description": "January 6 committee member splits from fellow Republican Adam Kinzinger but says first impeachment informs panel’s workUkraine – live coverage",
+            "url": "https://amp.theguardian.com/us-news/2022/mar/20/liz-cheney-trump-ukraine-impeachment-capitol-attack",
+            "urlToImage": null,
+            "publishedAt": "2022-03-20T16:37:00Z",
+            "content": "Donald TrumpJanuary 6 committee member splits from fellow Republican Adam Kinzinger but says first impeachment informs panels work\r\nLiz Cheney, one of two Republicans on the January 6 committee, does… [+3388 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Rebecca Rubin",
+            "title": "Box Office: ‘The Batman’ Rules Again, Crosses $300 Million in North America - Variety",
+            "description": "Robert Pattinson’s gritty superhero adventure “The Batman” is the No. 1 movie at the domestic box office for the third weekend in a row. That feat is not surprising because March has been relatively light in terms of new releases. But even though there hasn’t…",
+            "url": "https://variety.com/2022/film/box-office/the-batman-box-office-300-million-milestone-1235209949/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-07-at-1.52.25-PM.png?w=1024",
+            "publishedAt": "2022-03-20T16:20:00Z",
+            "content": "Robert Pattinson’s gritty superhero adventure “The Batman” is the No. 1 movie at the domestic box office for the third weekend in a row.\r\nThat feat is not surprising because March has been relatively… [+4081 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Duke vs. Michigan State: If Coach K is to extend his career, he'll need to push past Tom Izzo one final time - CBS Sports",
+            "description": "Either Coach K's farewell tour gets extended, or Tom Izzo will notch one of his biggest wins ever",
+            "url": "https://www.cbssports.com/college-basketball/news/duke-vs-michigan-state-if-coach-k-is-to-extend-his-career-hell-need-to-push-past-tom-izzo-one-final-time/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/03/20/fdeee29e-0891-479b-af5b-41327f54a3ed/thumbnail/1200x675/39f708a25b17dc365f7e9b0005b77972/mike-krzyzewski-tom-izzo.jpg",
+            "publishedAt": "2022-03-20T16:20:00Z",
+            "content": "GREENVILLE, S.C. -- Now it's actually starting to feel real. \r\nMike Krzyzewski's finale of a season has been drawn out, as expected, but the closing number was always in the distance over the past fo… [+5691 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon and David Jackson, USA TODAY",
+            "title": "US fears Russia could develop 'concentration camps'; Mariupol school sheltering 400 residents is bombed: Live Ukraine updates - USA TODAY",
+            "description": "The pounding of Mariupol intensified as a U.S. official expressed concern about possible Russian \"concentration and prisoner camps.\"  Latest news.",
+            "url": "https://www.usatoday.com/story/news/politics/2022/03/19/ukraine-news-russia-invasion-updates/7110747001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/20/USAT/7e3cbc85-465d-4500-bfd8-57c2026b0ddf-AP22077688989379.jpg?auto=webp&crop=4999,2812,x0,y253&format=pjpg&width=1200",
+            "publishedAt": "2022-03-20T16:19:07Z",
+            "content": "The pounding of the besieged southern port city of Mariupol intensified Sunday and a top U.S. official expressed concern about the prospect of Russian-organized \"concentration and prisoner camps\" as … [+14838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "Elizabeth Leonard",
+            "title": "Shailene Woodley and Aaron Rodgers Got 'Very Affectionate' During Calif. Winery Outing: Source - Yahoo Entertainment",
+            "description": "A source recently told PEOPLE that the pair have been spending time together after their split",
+            "url": "https://people.com/movies/shailene-woodley-aaron-rodgers-affectionate-at-calif-winery-source/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fvwC9EoqWbCCymwV5j1SqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/dmTInlX_xUHrd5eSCTuNOg--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/people_218/b273784e64250544c67a44c0d13049af",
+            "publishedAt": "2022-03-20T15:31:40Z",
+            "content": "Shailene Woodley and Aaron Rodgers\r\nJacopo Raule/Getty; Christopher Polk/Getty \r\nShailene Woodley and Aaron Rodgers are spending more quality time together.\r\nThe pair, who called off their engagement… [+2895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Vikki Blake",
+            "title": "Invaders are hacking the saves of Elden Ring players on PC - Eurogamer.net",
+            "description": null,
+            "url": "https://www.eurogamer.net/articles/2022-03-20-invaders-are-hacking-the-saves-of-elden-ring-players-on-pc",
+            "urlToImage": "https://images.gnwcdn.com/2022/articles/2022-03-20-15-22/-1647789740557.jpg/EG11/resize/1200x-1/-1647789740557.jpg",
+            "publishedAt": "2022-03-20T15:29:23Z",
+            "content": "Elden Ring players are being advised to turn off online play after reports that some PC players are being hacked by invaders that ruin their save.\r\nAs detailed on Reddit and explained via Twitter acc… [+2221 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Jacquie McNish",
+            "title": "Canadian Pacific Railway Work Stoppage Threatens New Supply-Chain Snarl - The Wall Street Journal",
+            "description": "The railway has been in negotiations and mediation since September with the union, and it denied the union’s claim that it had initiated a lockout.",
+            "url": "https://www.wsj.com/articles/canadian-pacific-railway-locks-out-conductors-and-engineers-11647753092",
+            "urlToImage": "https://images.wsj.net/im-508363/social",
+            "publishedAt": "2022-03-20T15:01:00Z",
+            "content": "Canadian Pacific Railway Ltd. trains were halted Sunday morning, stalling global shipments of key manufactured goods and commodities such as fertilizers, after an impasse in contract negotiations bet… [+364 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jackie Salo",
+            "title": "Motorist plows into carnival revelers in Belgium, leaving six dead and 10 badly injured - New York Post ",
+            "description": "A car mowed down a group of performers preparing for a carnival parade in southern Belgium early Sunday, killing six people and leaving 10 more with life-threatening injuries, officials said.",
+            "url": "https://nypost.com/2022/03/20/belgium-carnival-motorist-plows-into-crowd-killing-six/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/carnival-crash-comp-1.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-03-20T14:34:00Z",
+            "content": "A car mowed down a group of performers preparing for a carnival parade in southern Belgium early Sunday, killing six people and leaving 10 more with life-threatening injuries, officials said.\r\nMore t… [+1457 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kristen Rogers, CNN",
+            "title": "Know someone with an eating disorder? Here are 6 key ways you can help - CNN",
+            "description": "Being part of a support system for a loved one with an eating disorder can be game-changing -- but only if you know enough. Here are six things to keep in mind when helping someone with an eating disorder.",
+            "url": "https://www.cnn.com/2022/03/20/health/how-to-help-someone-with-eating-disorder-wellness/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220309144350-friend-support-help-stock-super-tease.jpg",
+            "publishedAt": "2022-03-20T14:22:00Z",
+            "content": "(CNN)If you think or know a loved one has an eating disorder, supporting that person can be game-changing for them. \r\nEating disorders affect at least 9% of the world population, which includes aroun… [+6578 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Andy Rose, CNN",
+            "title": "A man was fatally shot by his rescuer after falling in a South Carolina lake. The shooting has been ruled self-defense - CNN",
+            "description": "South Carolina prosecutors decided not to file charges in a case where a man who fell off a recreational watercraft was fatally shot by his rescuer, according to the Oconee County Sheriff's Office.",
+            "url": "https://www.cnn.com/2022/03/20/us/south-carolina-lake-shooting-self-defense/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220320075750-lake-keowee-south-carolina-super-tease.jpg",
+            "publishedAt": "2022-03-20T14:07:00Z",
+            "content": "(CNN)South Carolina prosecutors decided not to file charges in a case where a man who fell off a recreational watercraft was fatally shot by his rescuer, according to the Oconee County Sheriff's Offi… [+1414 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ramishah Maruf, CNN",
+            "title": "Credit reporting agencies will wipe out most medical debt - CNN",
+            "description": "Three of the country's largest credit reporting agencies are removing nearly 70% of medical debt from consumer credit reports, the companies announced in a joint statement Friday.",
+            "url": "https://www.cnn.com/2022/03/19/business/credit-reporting-agencies-medical-debt/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220319143012-hospital-california-0311-super-tease.jpg",
+            "publishedAt": "2022-03-20T14:05:00Z",
+            "content": "(CNN)Three of the country's largest credit reporting agencies are removing nearly 70% of medical debt from consumer credit reports, the companies announced in a joint statement Friday. \r\nEquifax(EFX)… [+2133 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": null,
+            "title": "iPad Air 5 is great, but here’s why it’s not an M1 iPad Pro replacement - 9to5Mac",
+            "description": "Apple just announced the iPad Air 5, but I'm still not convinced it can replace the M1 iPad Pro as the tablet professional goes – here's why.",
+            "url": "https://9to5mac.com/2022/03/20/ipad-air-5-is-great-but-heres-why-its-not-an-m1-ipad-pro-replacement/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/iPad-Pro-2021-Review-Improvements-iPadOS-15-Concept-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-03-20T13:47:54Z",
+            "content": "Apple just announced the iPad Air 5. With the M1 chip inside of it and an updated USB-C port, it never looked as “Pro” as now. That said, I’m still not convinced it can replace the M1 iPad Pro as the… [+2687 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "Top 5 Things to Watch in Markets in the Week Ahead By Investing.com - Investing.com",
+            "description": "Top 5 Things to Watch in Markets in the Week Ahead",
+            "url": "https://www.investing.com/news/economy/top-5-things-to-watch-in-markets-in-the-week-ahead-2788028",
+            "urlToImage": "https://i-invdn-com.investing.com/news/moved_LYNXMPEI0U0NT_L.jpg",
+            "publishedAt": "2022-03-20T13:27:00Z",
+            "content": "By Noreen Burke\r\nInvesting.com -- With a long-awaited rate hike from the Federal Reserve out of the way investors will be looking to see whether stocks are set for a sustained recovery or if more tur… [+4744 chars]"
+        }
+    ]
+}
